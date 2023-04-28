@@ -1,4 +1,4 @@
-package _1_Conceptos.Estructuras;
+package _1_Conceptos._1_2_Estructuras;
 
 
 public class _7_For {

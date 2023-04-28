@@ -1,4 +1,4 @@
-package _1_Conceptos.Estructuras;
+package _1_Conceptos._1_2_Estructuras;
 
 public class _10_Switch {
     public static void main(String[] args) {

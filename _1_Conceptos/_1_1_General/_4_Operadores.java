@@ -1,4 +1,4 @@
-package _1_Conceptos;
+package _1_Conceptos._1_1_General;
 
 public class _4_Operadores {
     public static void main(String[] args) {
